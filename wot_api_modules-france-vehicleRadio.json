@@ -1,0 +1,198 @@
+{
+    "data": {
+        "1095": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 1095, 
+            "name": "ER 51", 
+            "nation": "france", 
+            "price_credit": 500, 
+            "tier": 3, 
+            "type": "vehicleRadio", 
+            "weight": 100
+        }, 
+        "1351": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 1351, 
+            "name": "ER 55", 
+            "nation": "france", 
+            "price_credit": 44100, 
+            "tier": 9, 
+            "type": "vehicleRadio", 
+            "weight": 150
+        }, 
+        "1863": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 1863, 
+            "name": "Fu.Spr.Ger. \"f\"", 
+            "nation": "france", 
+            "price_credit": 8160, 
+            "tier": 6, 
+            "type": "vehicleRadio", 
+            "weight": 50
+        }, 
+        "2119": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 2119, 
+            "name": "SCR 508", 
+            "nation": "france", 
+            "price_credit": 21600, 
+            "tier": 6, 
+            "type": "vehicleRadio", 
+            "weight": 100
+        }, 
+        "2375": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 2375, 
+            "name": "ER 56", 
+            "nation": "france", 
+            "price_credit": 21600, 
+            "tier": 7, 
+            "type": "vehicleRadio", 
+            "weight": 150
+        }, 
+        "2631": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 2631, 
+            "name": "ER 29", 
+            "nation": "france", 
+            "price_credit": 3650, 
+            "tier": 5, 
+            "type": "vehicleRadio", 
+            "weight": 50
+        }, 
+        "2887": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 2887, 
+            "name": "SCR 619", 
+            "nation": "france", 
+            "price_credit": 54000, 
+            "tier": 10, 
+            "type": "vehicleRadio", 
+            "weight": 80
+        }, 
+        "327": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 327, 
+            "name": "ER 52", 
+            "nation": "france", 
+            "price_credit": 0, 
+            "tier": 2, 
+            "type": "vehicleRadio", 
+            "weight": 100
+        }, 
+        "4167": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 4167, 
+            "name": "Fu.Spr.Ger. \"d\"", 
+            "nation": "france", 
+            "price_credit": 630, 
+            "tier": 3, 
+            "type": "vehicleRadio", 
+            "weight": 50
+        }, 
+        "4423": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 4423, 
+            "name": "ER 28", 
+            "nation": "france", 
+            "price_credit": 620, 
+            "tier": 3, 
+            "type": "vehicleRadio", 
+            "weight": 15
+        }, 
+        "5191": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 5191, 
+            "name": "SCR 528F", 
+            "nation": "france", 
+            "price_credit": 54000, 
+            "tier": 10, 
+            "type": "vehicleRadio", 
+            "weight": 80
+        }, 
+        "5703": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 5703, 
+            "name": "TRVP-13-A", 
+            "nation": "france", 
+            "price_credit": 54000, 
+            "tier": 10, 
+            "type": "vehicleRadio", 
+            "weight": 80
+        }, 
+        "583": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 583, 
+            "name": "ER 53", 
+            "nation": "france", 
+            "price_credit": 3650, 
+            "tier": 5, 
+            "type": "vehicleRadio", 
+            "weight": 100
+        }, 
+        "5959": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 5959, 
+            "name": "TRVP-13", 
+            "nation": "france", 
+            "price_credit": 54000, 
+            "tier": 10, 
+            "type": "vehicleRadio", 
+            "weight": 80
+        }, 
+        "6215": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 6215, 
+            "name": "TRVP-11 (Banane)", 
+            "nation": "france", 
+            "price_credit": 45500, 
+            "tier": 9, 
+            "type": "vehicleRadio", 
+            "weight": 80
+        }, 
+        "6471": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 6471, 
+            "name": "ER 54", 
+            "nation": "france", 
+            "price_credit": 510, 
+            "tier": 3, 
+            "type": "vehicleRadio", 
+            "weight": 10
+        }, 
+        "6727": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 6727, 
+            "name": "ER 26 ter", 
+            "nation": "france", 
+            "price_credit": 21800, 
+            "tier": 7, 
+            "type": "vehicleRadio", 
+            "weight": 150
+        }, 
+        "6983": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 6983, 
+            "name": "ER 27", 
+            "nation": "france", 
+            "price_credit": 43500, 
+            "tier": 9, 
+            "type": "vehicleRadio", 
+            "weight": 200
+        }, 
+        "71": {
+            "image": "http://api.worldoftanks.com/static/2.43.0/wot/encyclopedia/module/ico-radio.gif", 
+            "module_id": 71, 
+            "name": "SCR 528F", 
+            "nation": "france", 
+            "price_credit": 54000, 
+            "tier": 10, 
+            "type": "vehicleRadio", 
+            "weight": 80
+        }
+    }, 
+    "meta": {
+        "count": 19
+    }, 
+    "status": "ok"
+}

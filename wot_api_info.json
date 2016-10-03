@@ -1,0 +1,78 @@
+{
+    "data": {
+        "achievement_sections": {
+            "action": {
+                "name": "Special", 
+                "order": 6
+            }, 
+            "battle": {
+                "name": "Battle Heroes", 
+                "order": 0
+            }, 
+            "class": {
+                "name": "Stage Awards", 
+                "order": 5
+            }, 
+            "epic": {
+                "name": "Epic Medals", 
+                "order": 2
+            }, 
+            "group": {
+                "name": "Group Awards", 
+                "order": 3
+            }, 
+            "memorial": {
+                "name": "Commemorative Tokens", 
+                "order": 4
+            }, 
+            "special": {
+                "name": "Honorary Ranks", 
+                "order": 1
+            }
+        }, 
+        "game_version": "9.15.2", 
+        "languages": {
+            "cs": "\u010ce\u0161tina", 
+            "de": "Deutsch", 
+            "en": "English", 
+            "es": "Espa\u00f1ol", 
+            "fr": "Fran\u00e7ais", 
+            "ko": "\ud55c\uad6d\uc5b4", 
+            "pl": "Polski", 
+            "ru": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439", 
+            "th": "\u0e44\u0e17\u0e22", 
+            "tr": "T\u00fcrk\u00e7e", 
+            "vi": "Ti\u1ebfng Vi\u1ec7t", 
+            "zh-cn": "\u7b80\u4f53\u4e2d\u6587"
+        }, 
+        "tanks_updated_at": 1473930973, 
+        "vehicle_crew_roles": {
+            "commander": "Commander", 
+            "driver": "Driver", 
+            "gunner": "Gunner", 
+            "loader": "Loader", 
+            "radioman": "Radio Operator"
+        }, 
+        "vehicle_nations": {
+            "china": "China", 
+            "czech": "Czechoslovakia", 
+            "france": "France", 
+            "germany": "Germany", 
+            "japan": "Japan", 
+            "uk": "U.K.", 
+            "usa": "U.S.A.", 
+            "ussr": "U.S.S.R."
+        }, 
+        "vehicle_types": {
+            "AT-SPG": "Tank Destroyer", 
+            "SPG": "SPG", 
+            "heavyTank": "Heavy Tank", 
+            "lightTank": "Light Tank", 
+            "mediumTank": "Medium Tank"
+        }
+    }, 
+    "meta": {
+        "count": 7
+    }, 
+    "status": "ok"
+}

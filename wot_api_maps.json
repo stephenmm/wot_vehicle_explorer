@@ -1,0 +1,9 @@
+{
+    "error": {
+        "code": 404, 
+        "field": null, 
+        "message": "METHOD_NOT_FOUND", 
+        "value": "/wot/encyclopedia/maps/"
+    }, 
+    "status": "error"
+}

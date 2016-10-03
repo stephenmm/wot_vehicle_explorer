@@ -1,0 +1,248 @@
+{
+    "data": {
+        "01_karelia": {
+            "arena_id": "01_karelia", 
+            "camouflage_type": "summer", 
+            "description": "Two avenues of attack are divided by a swamp. The eastern side is ideal for trench warfare. The western side is favorable to a hard push. The swamp provides a risky but perhaps unexpected attack route.", 
+            "name_i18n": "Karelia"
+        }, 
+        "02_malinovka": {
+            "arena_id": "02_malinovka", 
+            "camouflage_type": "summer", 
+            "description": "Initial staging areas are separated by a wide open field, ideal for artillery and defensive operations. Concealment and cover including woods, hills, and farmhouses can be decisive. Attackers should consider flanking maneuvers, but another option is a well-coordinated high-speed assault across the field, which could either bring victory or a bloody loss.", 
+            "name_i18n": "Malinovka"
+        }, 
+        "04_himmelsdorf": {
+            "arena_id": "04_himmelsdorf", 
+            "camouflage_type": "summer", 
+            "description": "A labyrinth of streets and squares, impassable for artillery and tank destroyers, but ideal for speedy breakthrough and bypass by medium and light tanks. Access roads running by the hill, with the castle that dominates the area, and along the railway lines can help you out of the impasse.", 
+            "name_i18n": "Himmelsdorf"
+        }, 
+        "05_prohorovka": {
+            "arena_id": "05_prohorovka", 
+            "camouflage_type": "summer", 
+            "description": "Generally open terrain featuring a large hill and a railway embankment. Scattered trees provide concealment for tank destroyers. On the offensive, strike against the enemy's flanks, but do not leave your own flanks unguarded. Artillery enjoys good fields of fire, but is still vulnerable to raids by light tanks.", 
+            "name_i18n": "Prokhorovka"
+        }, 
+        "06_ensk": {
+            "arena_id": "06_ensk", 
+            "camouflage_type": "summer", 
+            "description": "A mixture of city blocks and wooded outskirts, bisected by railroad tracks. Plan your tactics to take advantage of defensive choke points, positioning your vehicles to cover the gaps. Artillery is great for deterring enemy breakthroughs, but remains almost defenseless when exposed to enemy vehicles attacking from cover.", 
+            "name_i18n": "Ensk"
+        }, 
+        "07_lakeville": {
+            "arena_id": "07_lakeville", 
+            "camouflage_type": "summer", 
+            "description": "An isolated mountain valley on one flank and city blocks on the other allow you to thrust close enough to the enemy. A large lake in the middle gives snipers a chance to show their skill at extreme range.", 
+            "name_i18n": "Lakeville"
+        }, 
+        "08_ruinberg": {
+            "arena_id": "08_ruinberg", 
+            "camouflage_type": "summer", 
+            "description": "Concentric city streets, along with dense forests and bushes in the overgrown park allow for hidden maneuvers and redeployment of your troops. Although artillery fire is of limited use in the city, the debris provides effective cover for your troops.", 
+            "name_i18n": "Ruinberg"
+        }, 
+        "100_thepit": {
+            "arena_id": "100_thepit", 
+            "camouflage_type": "summer", 
+            "description": "The town in the hollow is an arena ravaged by the fierce clashes of steel-clad beasts. The vehicles are trying to shield themselves from the shelling of enemy artillery, while warily advancing to victory through the smoldering ruins.", 
+            "name_i18n": "Mittengard"
+        }, 
+        "103_ruinberg_winter": {
+            "arena_id": "103_ruinberg_winter", 
+            "camouflage_type": "winter", 
+            "description": "Concentric city streets, along with dense forests and bushes in the overgrown park, allow for hidden movement and the redeployment of your troops. Artillery fire is of limited use in the city, as the debris provides effective cover for your team.", 
+            "name_i18n": "Winterberg"
+        }, 
+        "10_hills": {
+            "arena_id": "10_hills", 
+            "camouflage_type": "summer", 
+            "description": "A high hill in the center of the map provides a perfect outpost for your attacks. A village to the north-east of the hill and an island to the west offer a wide range of tactical advantages, but lay open to fire from the center.", 
+            "name_i18n": "Mines"
+        }, 
+        "111_paris": {
+            "arena_id": "111_paris", 
+            "camouflage_type": "winter", 
+            "description": "Icebound", 
+            "name_i18n": "Icebound"
+        }, 
+        "112_eiffel_tower": {
+            "arena_id": "112_eiffel_tower", 
+            "camouflage_type": "summer", 
+            "description": "Paris", 
+            "name_i18n": "Paris"
+        }, 
+        "114_czech": {
+            "arena_id": "114_czech", 
+            "camouflage_type": "summer", 
+            "description": "Recent intelligence shows that the best tactic is to flank the enemy. The plant in the center may turn out to be a trap. Our reconnaissance units advise using it for a quick breakthrough at the end of the battle.", 
+            "name_i18n": "Pilsen"
+        }, 
+        "11_murovanka": {
+            "arena_id": "11_murovanka", 
+            "camouflage_type": "summer", 
+            "description": "Swamps, ravines, and hills determine your battle tactics. The scarcity of buildings gives a combat advantage to artillery. Concentrating all your attacks along one axis of attack may prove the best strategy.", 
+            "name_i18n": "Murovanka"
+        }, 
+        "13_erlenberg": {
+            "arena_id": "13_erlenberg", 
+            "camouflage_type": "winter", 
+            "description": "Divided by a river, this map offers three main avenues of attack. A bridge in the center is situated among the ruins of a small town. Terrain around the northern and southern bridges offers a small amount of cover. Use the castle and the range of hills on the opposite side of the map as firing positions for your artillery.", 
+            "name_i18n": "Erlenberg"
+        }, 
+        "14_siegfried_line": {
+            "arena_id": "14_siegfried_line", 
+            "camouflage_type": "summer", 
+            "description": "The map is a combination of open spaces and city blocks. Meandering lanes will facilitate your surprise attacks from behind the enemy lines while numerous bunkers serve as cover.", 
+            "name_i18n": "Siegfried Line"
+        }, 
+        "17_munchen": {
+            "arena_id": "17_munchen", 
+            "camouflage_type": "summer", 
+            "description": "This map depicts an industrial city devastated by war. A railway embankment divides the map in two, making it possible to concentrate forces for an attack or counterattack.", 
+            "name_i18n": "Widepark"
+        }, 
+        "18_cliff": {
+            "arena_id": "18_cliff", 
+            "camouflage_type": "summer", 
+            "description": "Opposing bases on this map are separated by cliffs and rocky ridges. A variety of cover allows for focused attacks in crucial directions. The direct route may seem ideal for a breakthrough assault, but do not neglect your flanks!", 
+            "name_i18n": "Cliff"
+        }, 
+        "19_monastery": {
+            "arena_id": "19_monastery", 
+            "camouflage_type": "summer", 
+            "description": "A monastery and a town are the focal points of this map. Three roads run north-south, providing easy access from one end of the map to the other. The monastery courtyard offers perfect, but predictable, firing positions for tanks and artillery. The long hill in the west and the winding ravine in the east can serve as perfect cover from enemy fire.", 
+            "name_i18n": "Abbey"
+        }, 
+        "22_slough": {
+            "arena_id": "22_slough", 
+            "camouflage_type": "summer", 
+            "description": "A swamp in the center of the map divides it into two major sectors. Control over the center makes it very difficult for enemy units to move around freely on the flanks. The hills offer additional key vantage points for spotting and firing.", 
+            "name_i18n": "Swamp"
+        }, 
+        "23_westfeld": {
+            "arena_id": "23_westfeld", 
+            "camouflage_type": "summer", 
+            "description": "Lush terrain features forests and villages scattered throughout the map, while a gigantic crumbling aqueduct looms over the valley. A variety of cliffs and ridges make perfect ambush spots, but wide open areas make changing your position quite risky.", 
+            "name_i18n": "Westfield"
+        }, 
+        "28_desert": {
+            "arena_id": "28_desert", 
+            "camouflage_type": "desert", 
+            "description": "This map looks open, but appearances can be deceiving! The village houses can be used as cover for vehicles and artillery. Consider attacking on the enemy flanks safely protected from their fire by cliffs and dunes.", 
+            "name_i18n": "Sand River"
+        }, 
+        "29_el_hallouf": {
+            "arena_id": "29_el_hallouf", 
+            "camouflage_type": "desert", 
+            "description": "A spacious valley sprinkled with boulders and trees lies in the center of the map. High mountain ridges flanking the valley provide natural sniper positions. Capturing bases becomes a real feat, as both team bases are situated in easily defended hilly regions.", 
+            "name_i18n": "El Halluf"
+        }, 
+        "31_airfield": {
+            "arena_id": "31_airfield", 
+            "camouflage_type": "desert", 
+            "description": "This map offers many great ambush spots, as well as possibilities for maneuvers and breakthroughs. A large airfield in the upper part of the map and a rocky highland in the center offer a major tactical challenge. Occupy the highland to get a perfect view of the surrounding terrain and dominate routes to the enemy base.", 
+            "name_i18n": "Airfield"
+        }, 
+        "33_fjord": {
+            "arena_id": "33_fjord", 
+            "camouflage_type": "summer", 
+            "description": "Huge mountains and narrow valleys offer great advantages in a battle. You can engage in a fire duel across the gulf or enter a close quarter battle at the nearest port town or flank and capture enemy base.", 
+            "name_i18n": "Fjords"
+        }, 
+        "34_redshire": {
+            "arena_id": "34_redshire", 
+            "camouflage_type": "summer", 
+            "description": "This map is truly unique. Green fields interspersed with rolling hills offer great opportunities for aggressive attacks. The river running along the middle of the map is more of a guiding landmark than a real obstacle.", 
+            "name_i18n": "Redshire"
+        }, 
+        "35_steppes": {
+            "arena_id": "35_steppes", 
+            "camouflage_type": "summer", 
+            "description": "Generally open, this map allows you to strike in multiple directions, but don't disperse your forces too much. A road in the center will take you to the enemy base more directly, but perhaps with greater difficulty. The edges of the map may offer better avenues for attacks and feints.", 
+            "name_i18n": "Steppes"
+        }, 
+        "36_fishing_bay": {
+            "arena_id": "36_fishing_bay", 
+            "camouflage_type": "summer", 
+            "description": "The map is a mix of open spaces and irregular terrain. The winding streets of the fishing village can be highly advantageous for defense or attack. Low ridges and hills scattered with bushes offer excellent ambush opportunities.", 
+            "name_i18n": "Fisherman's Bay"
+        }, 
+        "37_caucasus": {
+            "arena_id": "37_caucasus", 
+            "camouflage_type": "summer", 
+            "description": "Steep terrain with numerous cliffs and stones can serve as a perfect cover from enemy fire. Use the hills to set up ambushes, or infiltrate the enemy base unnoticed through winding highland paths.", 
+            "name_i18n": "Mountain Pass"
+        }, 
+        "38_mannerheim_line": {
+            "arena_id": "38_mannerheim_line", 
+            "camouflage_type": "winter", 
+            "description": "This snow-covered and rocky map is abundant in various obstacles and defilades. Trails that snake around rocky mountains and along the riverside will present options for an offensive strategy, but beware: defenders will have plenty of ambush opportunities.", 
+            "name_i18n": "Arctic Region"
+        }, 
+        "44_north_america": {
+            "arena_id": "44_north_america", 
+            "camouflage_type": "summer", 
+            "description": "In the centre of the map there is a large, boggy lake. A railway bridge and a ford on the one flank are defensible with scant forces, making it possible to concentrate main forces on the other flank.", 
+            "name_i18n": "Live Oaks"
+        }, 
+        "45_north_america": {
+            "arena_id": "45_north_america", 
+            "camouflage_type": "summer", 
+            "description": "An industrial city is the preferred environment for heavy tanks. A riverside village provides good opportunities for medium tanks to position and maneuver.", 
+            "name_i18n": "Highway"
+        }, 
+        "47_canada_a": {
+            "arena_id": "47_canada_a", 
+            "camouflage_type": "summer", 
+            "description": "This map offers several avenues of attack, each presenting certain advantages. Slow, heavy vehicles should concentrate along the railway. Fast vehicles should quickly seize key positions, such as the peninsula and high ground, in order to provide support for the rest of the team.", 
+            "name_i18n": "Serene Coast"
+        }, 
+        "63_tundra": {
+            "arena_id": "63_tundra", 
+            "camouflage_type": "summer", 
+            "description": "The mountain in the east offers the possibility of dominating from the high ground, while the central part of the map offers a wide range of tactical advantages. A village and a bypass road are located in the west, creating an opportunity for unexpected maneuvers and tactics.", 
+            "name_i18n": "Tundra"
+        }, 
+        "73_asia_korea": {
+            "arena_id": "73_asia_korea", 
+            "camouflage_type": "winter", 
+            "description": "Major terrain of the map features a hidden vale in the midst of the mountains. Numerous villages, rocks, trees, and bushes influence battle tactics.", 
+            "name_i18n": "Sacred Valley"
+        }, 
+        "83_kharkiv": {
+            "arena_id": "83_kharkiv", 
+            "camouflage_type": "winter", 
+            "description": "City blocks in the center of the map bear the highest strategic importance. The map also offers two alternative options: the city square, perfect for long distance fighting; and an open area, excellent for fast vehicles.", 
+            "name_i18n": "Kharkov"
+        }, 
+        "84_winter": {
+            "arena_id": "84_winter", 
+            "camouflage_type": "winter", 
+            "description": "A town is the most protected environment that is ideal for a rugged defense. Open area in the north offers great opportunities for a breakthrough to the enemy base and aggressive maneuvers in light vehicles.", 
+            "name_i18n": "Windstorm"
+        }, 
+        "86_himmelsdorf_winter": {
+            "arena_id": "86_himmelsdorf_winter", 
+            "camouflage_type": "winter", 
+            "description": "A labyrinth of streets and squares, impassable for artillery and tank destroyers, but ideal for speedy breakthrough and bypass by medium and light tanks. Access roads running by the hill, with the castle that dominates the area, and along the railway lines can help you out of the impasse.", 
+            "name_i18n": "Winter Himmelsdorf"
+        }, 
+        "95_lost_city": {
+            "arena_id": "95_lost_city", 
+            "camouflage_type": "summer", 
+            "description": "This presidio located in the desert sands is an ideal setting for head-on heavy vehicle encounters, while the more maneuverable vehicles can launch surprise attacks by flanking the enemy.", 
+            "name_i18n": "Ghost Town"
+        }, 
+        "96_prohorovka_defense": {
+            "arena_id": "96_prohorovka_defense", 
+            "camouflage_type": "summer", 
+            "description": "Generally open terrain featuring a large hill and a railway embankment. Scattered trees provide concealment for tank destroyers. On the offensive, strike against the enemy's flanks, but do not leave your own flanks unguarded. Artillery enjoys good fields of fire, but is still vulnerable to raids by light tanks.", 
+            "name_i18n": "Fiery Salient"
+        }
+    }, 
+    "meta": {
+        "count": 40
+    }, 
+    "status": "ok"
+}
